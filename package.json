@@ -1,0 +1,10 @@
+{
+    "name": "@ao20/shared-types",
+    "version": "1.0.0",
+    "description": "Shared TypeScript type definitions for the Argentum 20 ecosystem",
+    "types": "index.d.ts",
+    "files": [
+        "*.d.ts"
+    ],
+    "license": "AGPL-3.0-only"
+}
