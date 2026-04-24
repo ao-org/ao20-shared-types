@@ -34,4 +34,4 @@ import type { User, Account, RankingUser, GiftCard } from '@ao20/shared-types';
 
 ## License
 
-Proprietary — Copyright (c) 2026 Argentum Online 20. All rights reserved. See [LICENSE](LICENSE) for details.
+Proprietary — Copyright (c) 2026 Conreco Limited. All rights reserved. See [LICENSE](LICENSE) for details.
