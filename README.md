@@ -34,4 +34,4 @@ import type { User, Account, RankingUser, GiftCard } from '@ao20/shared-types';
 
 ## License
 
-[AGPL-3.0-only](https://www.gnu.org/licenses/agpl-3.0.html)
+Proprietary — Copyright (c) 2026 Argentum Online 20. All rights reserved. See [LICENSE](LICENSE) for details.
