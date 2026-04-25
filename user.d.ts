@@ -61,6 +61,8 @@ export interface UserExtraData {
 
 export interface UserOnSale {
   name: string;
+  /** Character alias (alternative display name), null/undefined if not set */
+  alias?: string | null;
   level: number;
   price_in_mao: number;
   price_in_usd: number;
