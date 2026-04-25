@@ -4,6 +4,8 @@
  */
 export interface RankingUser {
   character_name: string;
+  /** Character alias (alternative display name), null if not set */
+  alias: string | null;
   class_id: number;
   race_id: number;
   genre_id: number;
