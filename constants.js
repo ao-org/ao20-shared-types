@@ -1,0 +1,9 @@
+/** @type {Readonly<{FREE: 10459126, AVENTURERO: 6057393, HEROE: 6057394, LEYENDA: 6057395}>} */
+const PATRON_TIERS = Object.freeze({
+    FREE: 10459126,
+    AVENTURERO: 6057393,
+    HEROE: 6057394,
+    LEYENDA: 6057395
+});
+
+module.exports = { PATRON_TIERS };

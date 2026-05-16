@@ -1,10 +1,22 @@
 {
     "name": "@ao20/shared-types",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Shared TypeScript type definitions for the Argentum 20 ecosystem",
+    "main": "constants.js",
     "types": "index.d.ts",
+    "exports": {
+        ".": {
+            "types": "./index.d.ts",
+            "default": "./constants.js"
+        },
+        "./constants": {
+            "types": "./constants.d.ts",
+            "default": "./constants.js"
+        }
+    },
     "files": [
-        "*.d.ts"
+        "*.d.ts",
+        "constants.js"
     ],
     "license": "SEE LICENSE IN LICENSE"
 }
